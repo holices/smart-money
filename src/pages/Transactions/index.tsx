@@ -9,7 +9,6 @@ export function Transactions() {
       <Header />
       <Summary />
 
-
       <TransactionsContainer>
         <SearchForm />
         <TransactionsTable>
