@@ -23,6 +23,38 @@
       "category": "Alimentação",
       "price": 100,
       "createdAt": "2024-02-18T10:41:15.464Z"
+    },
+    {
+      "description": "digital marketing",
+      "price": 5000,
+      "category": "venda",
+      "type": "income",
+      "createdAt": "2024-02-21T19:30:14.531Z",
+      "id": 4
+    },
+    {
+      "description": "digital marketing",
+      "price": 5000,
+      "category": "venda",
+      "type": "income",
+      "createdAt": "2024-02-21T19:30:17.688Z",
+      "id": 5
+    },
+    {
+      "description": "Pastel",
+      "price": 7,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2024-02-21T19:38:06.450Z",
+      "id": 6
+    },
+    {
+      "description": "Iogurte de Banana",
+      "price": 4,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2024-02-21T19:56:03.559Z",
+      "id": 7
     }
   ]
 }
