@@ -38,7 +38,7 @@ $ git clone git@github.com:holices/smart-money.git
 3. #### To run the Front-end
 
 
-#### Open the cloned repository and install the required dependencies, using the IDE terminal:
+Open the cloned repository and install the required dependencies, using the IDE terminal:
 ```bash
 $ npm install
 ```
